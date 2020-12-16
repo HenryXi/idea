@@ -1,5 +1,7 @@
 # Intellij IDEA tutorial
 
+Articles about how to use Intellij IDEA effectively
+
 * [Delete IDEA completely on the MAC](http://www.henryxi.com/delete-idea-completely-on-the-mac)
 * [IDEA change new project maven home directory](http://www.henryxi.com/idea-change-new-project-maven-home-directory)
 * [IDEA find unused code](http://www.henryxi.com/idea-find-unused-code)
